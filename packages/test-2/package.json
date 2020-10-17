@@ -20,7 +20,7 @@
     "build": "webpack",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "541b1b9352c4fdb719ebd847a71c468ef947b0ff",
+  "gitHead": "e285afc35e127b23bc900c6b564cb5084b4a80b5",
   "dependencies": {
     "react": "^16.14.0"
   },
