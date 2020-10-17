@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default () => {
-  return <a href="https://www.bbc.co.uk">Testing react with a link.</a>
+  return <a href="https://www.google.co.uk">Testing react with a link.</a>
 }
