@@ -2,8 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "release:patch": "lerna run build && lerna version patch",
-    "publish": "lerna publish from-git"
+    "release:patch": "lerna run build && lerna version patch"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
