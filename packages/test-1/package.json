@@ -17,10 +17,17 @@
     "access": "public"
   },
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "gitHead": "84de205c6e0402302c6a03a089f4b55a4ec6e5ba",
   "dependencies": {
     "react": "^16.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "babel-loader": "^8.1.0",
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.0.0"
   }
 }
