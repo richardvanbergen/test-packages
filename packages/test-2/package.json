@@ -21,14 +21,19 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "gitHead": "e285afc35e127b23bc900c6b564cb5084b4a80b5",
-  "dependencies": {
-    "react": "^16.14.0"
+  "peerDependencies": {
+    "prop-types": "15.x",
+    "react": "16.x",
+    "react-dom": "16.x"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-react": "^7.12.1",
     "babel-loader": "^8.1.0",
     "lerna": "^3.22.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "webpack": "^5.1.3",
     "webpack-cli": "^4.0.0"
   }
