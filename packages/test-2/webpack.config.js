@@ -4,6 +4,8 @@ module.exports = {
   entry: './src/TestComponent.jsx',
   output: {
     filename: 'main.js',
+    library: 'test-2',
+    libraryTarget: 'commonjs2',
     path: path.resolve(__dirname, 'dist'),
   },
   module: {
